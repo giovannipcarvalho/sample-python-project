@@ -1,6 +1,6 @@
 # sample-python-package
 
-Accompanying code for the article "Python packaging for developers in a hurry".
+Accompanying code for the article ["Python packaging for developers in a hurry"](https://giovannipcarvalho.github.io/2023/01/08/python-packaging-in-a-hurry.html).
 
 The toolset:
 * [mamba](https://github.com/mamba-org/mamba) (from the [mambaforge](https://github.com/conda-forge/miniforge#mambaforge) distribution) for managing Python environments and installing packages which are only available in conda's repositories
