@@ -22,7 +22,7 @@ python -m myapp
 Build and run container:
 ```bash
 docker build . -t myapp  # builds into a ~150MB image
-docker run --rm -it -p 5000:5000 myapp
+docker run --rm -it -p 8000:8000 myapp
 ```
 
 Manage dependencies:
