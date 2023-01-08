@@ -1,0 +1,8 @@
+# run: conda env create
+#  or  conda env update
+# reset with: conda install --revision 0
+name: myapp
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
