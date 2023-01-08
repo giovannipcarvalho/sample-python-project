@@ -1,4 +1,4 @@
-# sample-python-package
+# sample-python-project
 
 Accompanying code for the article ["Python packaging for developers in a hurry"](https://giovannipcarvalho.github.io/2023/01/08/python-packaging-in-a-hurry.html).
 
